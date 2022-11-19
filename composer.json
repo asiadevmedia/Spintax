@@ -1,0 +1,28 @@
+{
+    "name": "teguh/spintax",
+    "description": "spintax php",
+    "keywords": [
+        "spintax"
+    ],
+    "type": "library",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/asiadevmedia/Spintax"
+        }
+    ],
+    "version": "1.0.0",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Teguh",
+            "email": "kingsoko46@gmail.com"
+        }
+    ],
+    "autoload": {
+        "classmap": [
+            "spintax.class.php"
+        ]
+    },
+    "require": {}
+}
