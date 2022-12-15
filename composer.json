@@ -1,6 +1,6 @@
 {
     "name": "asiadevmedia/spintax",
-    "description": "spintax php",
+    "description": "Simple way to process spintax strings",
     "keywords": [
         "spintax"
     ],
